@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/2/DSYE2/libs/kazmath/src
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/DSYE2/libs/kazmath/src/CMakeLists.txt
+END
+ray2.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2/DSYE2/libs/kazmath/src/ray2.c
+END
+vec2.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2/DSYE2/libs/kazmath/src/vec2.c
+END
+plane.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2/DSYE2/libs/kazmath/src/plane.c
+END
+vec3.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2/DSYE2/libs/kazmath/src/vec3.c
+END
+vec4.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2/DSYE2/libs/kazmath/src/vec4.c
+END
+utility.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2/DSYE2/libs/kazmath/src/utility.c
+END
+mat3.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2/DSYE2/libs/kazmath/src/mat3.c
+END
+neon_matrix_impl.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2/DSYE2/libs/kazmath/src/neon_matrix_impl.c
+END
+mat4.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2/DSYE2/libs/kazmath/src/mat4.c
+END
+quaternion.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2/DSYE2/libs/kazmath/src/quaternion.c
+END
+aabb.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2/DSYE2/libs/kazmath/src/aabb.c
+END
+ChangeLog
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2/DSYE2/libs/kazmath/src/ChangeLog
+END

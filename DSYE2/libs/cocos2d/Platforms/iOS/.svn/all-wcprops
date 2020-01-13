@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2/DSYE2/libs/cocos2d/Platforms/iOS
+END
+CCTouchDispatcher.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2/DSYE2/libs/cocos2d/Platforms/iOS/CCTouchDispatcher.h
+END
+CCDirectorIOS.m
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2/DSYE2/libs/cocos2d/Platforms/iOS/CCDirectorIOS.m
+END
+CCGLView.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2/DSYE2/libs/cocos2d/Platforms/iOS/CCGLView.h
+END
+CCESRenderer.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2/DSYE2/libs/cocos2d/Platforms/iOS/CCESRenderer.h
+END
+CCTouchDispatcher.m
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2/DSYE2/libs/cocos2d/Platforms/iOS/CCTouchDispatcher.m
+END
+CCTouchDelegateProtocol.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2/DSYE2/libs/cocos2d/Platforms/iOS/CCTouchDelegateProtocol.h
+END
+CCES2Renderer.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2/DSYE2/libs/cocos2d/Platforms/iOS/CCES2Renderer.h
+END
+CCTouchHandler.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2/DSYE2/libs/cocos2d/Platforms/iOS/CCTouchHandler.h
+END
+CCGLView.m
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2/DSYE2/libs/cocos2d/Platforms/iOS/CCGLView.m
+END
+CCTouchHandler.m
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2/DSYE2/libs/cocos2d/Platforms/iOS/CCTouchHandler.m
+END
+CCES2Renderer.m
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2/DSYE2/libs/cocos2d/Platforms/iOS/CCES2Renderer.m
+END
+CCDirectorIOS.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2/DSYE2/libs/cocos2d/Platforms/iOS/CCDirectorIOS.h
+END

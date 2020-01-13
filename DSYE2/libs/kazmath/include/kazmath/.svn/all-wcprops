@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2/DSYE2/libs/kazmath/include/kazmath
+END
+vec4.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2/DSYE2/libs/kazmath/include/kazmath/vec4.h
+END
+utility.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2/DSYE2/libs/kazmath/include/kazmath/utility.h
+END
+neon_matrix_impl.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2/DSYE2/libs/kazmath/include/kazmath/neon_matrix_impl.h
+END
+mat3.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2/DSYE2/libs/kazmath/include/kazmath/mat3.h
+END
+quaternion.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2/DSYE2/libs/kazmath/include/kazmath/quaternion.h
+END
+aabb.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2/DSYE2/libs/kazmath/include/kazmath/aabb.h
+END
+mat4.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2/DSYE2/libs/kazmath/include/kazmath/mat4.h
+END
+ray2.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2/DSYE2/libs/kazmath/include/kazmath/ray2.h
+END
+vec2.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2/DSYE2/libs/kazmath/include/kazmath/vec2.h
+END
+kazmath.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2/DSYE2/libs/kazmath/include/kazmath/kazmath.h
+END
+plane.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2/DSYE2/libs/kazmath/include/kazmath/plane.h
+END
+vec3.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2/DSYE2/libs/kazmath/include/kazmath/vec3.h
+END
